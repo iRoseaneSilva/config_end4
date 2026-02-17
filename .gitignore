@@ -1,0 +1,6 @@
+# Ignorar caches de imagem e estados temporários
+**/cache/
+**/_current.conf
+**/*.log
+**/node_modules/
+.venv/
